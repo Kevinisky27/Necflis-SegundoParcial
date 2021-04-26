@@ -1,0 +1,15 @@
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/bin/Debug/net5.0/netflis.deps.json
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/bin/Debug/net5.0/netflis.runtimeconfig.json
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/bin/Debug/net5.0/netflis.runtimeconfig.dev.json
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/bin/Debug/net5.0/netflis.dll
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/bin/Debug/net5.0/ref/netflis.dll
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/bin/Debug/net5.0/netflis.pdb
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.csprojAssemblyReference.cache
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.AssemblyInfoInputs.cache
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.AssemblyInfo.cs
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.csproj.CoreCompileInputs.cache
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.dll
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/ref/netflis.dll
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.pdb
+/Users/kevinalexanderlimarecinos/Documents/002 2021/UMG/Tercer_Semestre /PROGRAMACIÓN_I/Necflis-Segundo_parcial/netflis/netflis/obj/Debug/net5.0/netflis.genruntimeconfig.cache

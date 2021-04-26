@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{BFB26D2D-897E-478C-A989-1A433A4C671B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="netflis/NecflisPlayList.cs">
+    <Files>
+      <File FileName="netflis/Program.cs" Line="76" Column="1" />
+      <File FileName="netflis/NecflisPlayList.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="netflis" expanded="True">
+            <Node name="netflis" expanded="True">
+              <Node name="NecflisPlayList.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.netflis PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
